@@ -1,4 +1,4 @@
-📊 Heart Disease Prediction — UCI Dataset
+# 📊 Heart Disease Prediction — UCI Dataset
 This repository contains a Python-based machine learning project that predicts the presence of heart disease using the UCI Heart Disease dataset. The project compares multiple classification algorithms and evaluates their performance using various metrics.
 
 📁 Project Structure
