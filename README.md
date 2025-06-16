@@ -4,7 +4,7 @@ This repository contains a Python-based machine learning project that predicts t
 📁 Project Structure
 Main.ipynb — Jupyter Notebook containing data exploration, preprocessing, model training, evaluation, and improvement attempts.
 
-📦 Dependencies
+📦 Required Dependencies
 To run this project, you’ll need:
 
 ucimlrepo
