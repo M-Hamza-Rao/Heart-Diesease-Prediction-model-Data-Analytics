@@ -56,8 +56,6 @@ Evaluates models using:
 
 Accuracy
 
-Precision
-
 Recall
 
 ROC AUC
