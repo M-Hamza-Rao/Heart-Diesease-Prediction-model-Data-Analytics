@@ -8,7 +8,6 @@ Main.ipynb — Jupyter Notebook containing data exploration, preprocessing, mode
 📦 Required Dependencies
 To run this project, you’ll need:
 
-ucimlrepo
 
 pandas
 
